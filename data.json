@@ -1,0 +1,43 @@
+{
+    "movie": [{
+        "id": 1,
+        "name": "Dilwale",
+        "Language": "Hindi",
+        "ReleaseDate": "18 December 2015",
+        "Quality": "480p ",
+        "size": "411",
+        "description": "Present day: One day in Goa, a boy named Veer Bakshi (Varun Dhawan) meets a passer-by Ishita (Kriti Sanon), a beautiful and educated young girl and befriends her by helping her, damaging his own car in the process.",
+        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/Dilwale.jpg",
+        "downloadUrl": "https://drive.google.com/file/d/16VUabvmxamjIGpsQ8GwlPKcAKMsrrdsy/view?usp=sharing"
+    }, {
+        "id": 2,
+        "name": "The Boss Baby",
+        "Language": "Hindi",
+        "ReleaseDate": "31 March 2017",
+        "Quality": "360p ",
+        "size": "249",
+        "description": "Seven-year-old Tim gets jealous when his parents give all their attention to his little brother. Tim soon learns that the baby can talk and the two team up to foil the plans of the CEO of Puppy Co.",
+        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/The_Boss_Baby.jpg",
+        "downloadUrl": "https://drive.google.com/file/d/1yBbnmrb0u2wqzh84TP2LjFixdx8X1auy/view?usp=sharing"
+    }, {
+        "id": 3,
+        "name": "Dil Bechara",
+        "Language": "Hindi",
+        "ReleaseDate": "24 July 2020",
+        "Quality": "360p",
+        "size": "237",
+        "description": "While struggling to survive, Manny and Kizie, who each have a terminal illness, fall in love with each other. Thereafter, the two try to spend the rest of their days being happy and staying positive.",
+        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/Dil_bechara.jpg",
+        "downloadUrl": "https://drive.google.com/file/d/1PM40MMQKWMzmnrCKbVBer6EKtPZsACmT/view?usp=sharing"
+    }, {
+        "id": 4,
+        "name": "Upgrade",
+        "Language": "Hindi Dubbed",
+        "ReleaseDate": "14 June 2018",
+        "Quality": "360p",
+        "size": "251",
+        "description": "Grey, a technophobe, suffers paralysis and loses his wife during an attack. But when a billionaire hands him a chip in his body that restores his mobility, he sets out to get vengeance.",
+        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/Upgrade.jpg",
+        "downloadUrl": "https://drive.google.com/file/d/1SDHsbGb83FrKL1U97ZdnqDsg8owEqHfZ/view?usp=sharing"
+    }]
+}
